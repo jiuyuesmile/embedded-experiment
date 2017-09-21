@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<UploadSetting HostName="192.168.1.11" Password="root" UserName="root">
+<PathPair LocalPath="E:\Practice\Arm\test_1\asm_program\Debug\asm_program" RemotePath="/apps/asm_program/asm_program"/>
+</UploadSetting>
+<BaseSetting ProjectType=""/>
+<BuildConfigration>
+<BuildCfgPair Macro="SylixOS_Toolchain" Value="arm-sylixos-eabi"/>
+<BuildCfgPair Macro="SylixOS_Toolchain_Path" Value="D:\Major\SylixOS_CD_v2.1.0\arm-sylixos-toolchain"/>
+<BuildCfgPair Macro="SylixOS_Toolchain_Ver" Value="4.9.3"/>
+<BuildCfgPair Macro="SylixOS_Debug_Level" Value="debug"/>
+<BuildCfgPair Macro="SylixOS_Cpu_Type" Value="-mcpu=cortex-a8"/>
+<BuildCfgPair Macro="SylixOS_Fpu_Type" Value=""/>
+<BuildCfgPair Macro="SylixOS_Base_Path" Value="E:/Practice/Arm/QLMX/SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Target_Name" Value="asm_program"/>
+<BuildCfgPair Macro="Create_Date" Value="2016 年11 月23 日"/>
+<BuildCfgPair Macro="SylixOS_Arch" Value="arm"/>
+</BuildConfigration>
+</SylixOSSetting>

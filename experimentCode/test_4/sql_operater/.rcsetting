@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<UploadSetting HostName="192.168.1.11" Password="root" UserName="root">
+<PathPair LocalPath="E:\Practice\Arm\test_4\sql_operater\Debug\sql_operater" RemotePath="/apps/sql_operater/sql_operater"/>
+</UploadSetting>
+<BaseSetting ProjectType="DynamicAppProject"/>
+<BuildConfigration>
+<BuildCfgPair Macro="SylixOS_Debug_Level" Value="debug"/>
+<BuildCfgPair Macro="SylixOS_Create_Date" Value="2016-11-28"/>
+<BuildCfgPair Macro="SylixOS_Base_Path" Value="E:/Practice/Arm/QLMX/SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Fpu_Type" Value=""/>
+<BuildCfgPair Macro="SylixOS_Toolchain_Ver" Value="4.9.3"/>
+<BuildCfgPair Macro="SylixOS_Toolchain" Value="arm-sylixos-eabi"/>
+<BuildCfgPair Macro="projectType" Value="org.eclipse.cdt.build.makefile.projectType.SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Target_Name" Value="sql_operater"/>
+<BuildCfgPair Macro="SylixOS_Arch" Value="arm"/>
+<BuildCfgPair Macro="SylixOS_Src_Path" Value="D:/ACOINFO/RealEvo-IDE/SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Toolchain_Path" Value="D:\Major\SylixOS_CD_v2.1.0\arm-sylixos-toolchain"/>
+<BuildCfgPair Macro="baseNameLower" Value="sql_operater"/>
+<BuildCfgPair Macro="SylixOS_Cpu_Type" Value="-mcpu=cortex-a8"/>
+<BuildCfgPair Macro="location" Value="F:\lsj\labworkspace"/>
+<BuildCfgPair Macro="SylixOS_Create_User" Value="THTF"/>
+<BuildCfgPair Macro="baseNameUpper" Value="SQL_OPERATER"/>
+<BuildCfgPair Macro="projectName" Value="sql_operater"/>
+<BuildCfgPair Macro="baseName" Value="sql_operater"/>
+<BuildCfgPair Macro="Create_Date" Value="2016 年12 月07 日"/>
+</BuildConfigration>
+</SylixOSSetting>

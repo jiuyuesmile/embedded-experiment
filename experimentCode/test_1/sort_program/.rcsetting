@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<UploadSetting HostName="192.168.1.11" Password="root" UserName="root">
+<PathPair LocalPath="E:\Practice\Arm\test_1\sort_program\Debug\sort_program" RemotePath="/apps/sort_program/sort_program"/>
+</UploadSetting>
+<BaseSetting ProjectType="DynamicAppProject"/>
+<BuildConfigration>
+<BuildCfgPair Macro="SylixOS_Debug_Level" Value="debug"/>
+<BuildCfgPair Macro="SylixOS_Create_Date" Value="2015-10-28"/>
+<BuildCfgPair Macro="SylixOS_Base_Path" Value="E:/Practice/Arm/QLMX/SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Fpu_Type" Value=""/>
+<BuildCfgPair Macro="SylixOS_Toolchain_Ver" Value="4.9.3"/>
+<BuildCfgPair Macro="SylixOS_Toolchain" Value="arm-sylixos-eabi"/>
+<BuildCfgPair Macro="projectType" Value="org.eclipse.cdt.build.makefile.projectType.SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Target_Name" Value="sort_program"/>
+<BuildCfgPair Macro="SylixOS_Src_Path" Value="F:/ACOINFO/RealEvo-IDE/SylixOS"/>
+<BuildCfgPair Macro="SylixOS_Toolchain_Path" Value="D:\Major\SylixOS_CD_v2.1.0\arm-sylixos-toolchain"/>
+<BuildCfgPair Macro="baseNameLower" Value="sort_program"/>
+<BuildCfgPair Macro="SylixOS_Cpu_Type" Value="-mcpu=cortex-a8"/>
+<BuildCfgPair Macro="Create_Date" Value="2016 年11 月23 日"/>
+<BuildCfgPair Macro="location" Value="D:\workspace\A8\sylixos_example-S5PV210\sylixos_example"/>
+<BuildCfgPair Macro="SylixOS_Create_User" Value="qi"/>
+<BuildCfgPair Macro="baseNameUpper" Value="SORT_PROGRAM"/>
+<BuildCfgPair Macro="projectName" Value="sort_program"/>
+<BuildCfgPair Macro="baseName" Value="sort_program"/>
+<BuildCfgPair Macro="SylixOS_Arch" Value="arm"/>
+</BuildConfigration>
+</SylixOSSetting>
